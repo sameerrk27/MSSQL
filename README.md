@@ -1,5 +1,14 @@
-# SQL Projects
+# MSSQL
 
-Project documentation and files are organized in the [`Projects/`](Projects/) folder.
+This repository contains Microsoft SQL Server projects and practice resources.
 
-- [Project 01: Querying a Large Relational Database](Projects/README.md)
+## Sections
+
+- [SQL Projects](SQL-Projects/README.md)
+- [SQL Case Studies](SQL%20CStudy/)
+
+## Contents
+
+- SQL project files
+- SQL case studies
+- Microsoft SQL Server learning materials
