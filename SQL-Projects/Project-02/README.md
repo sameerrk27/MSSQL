@@ -14,7 +14,9 @@ The task is to create the database, define parent and child relationships, inser
 
 ## User Roles Data Schema
 
-![User Roles Data Schema](User-Roles-Schema.png)
+<p align="center">
+  <img src="Project_02_UserRoles_Screenshot.png" alt="User Roles Data Schema" width="100%">
+</p>
 
 The diagram contains five tables:
 
@@ -74,7 +76,7 @@ The diagram contains five tables:
 SQL-Projects/
 └── Project-02/
     ├── README.md
-    ├── User-Roles-Schema.png
+    ├── Project_02_UserRoles_Screenshot.png
     └── Project_02_Relational_Database_Design.sql
 ```
 
